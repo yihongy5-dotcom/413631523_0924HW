@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一個網頁</title>
+</head>
+<body>
+    <h1 style="background-color: rgb(144, 186, 238); padding: 10px;">我的第一個 HTML 網頁</h1>
+ 
+    <h2>自我介紹</h2>
+    <p>大家好，我是大二楊奕竑，今天第一次寫 HTML,我的學號是413631523</p>
+ 
+    <h2>我喜歡的網站</h2>
+    <p>這是我常用的網站：</p>
+    <ul>
+        <li><a href="https://www.google.com" target="_blank">Google</a></li>
+        <li><a href="https://www.youtube.com" target="_blank">YouTube</a></li>
+    </ul>
+ 
+    <h2>我喜歡的團體</h2>
+    <p>這是他們的粉專：</p>
+    <img src="https://www.instagram.com/babymonster_ygofficial/" alt="示範圖片">
+ 
+    <h2>我的學習清單</h2>
+    <p>我想學的東西：</p>
+    <ol>
+        <li>HTML 電腦語言</li>
+        <li>CSS 排版</li>
+        <li>JavaScript 程式設計</li>
+    </ol>
+ 
+    <table>
+  <tr>
+    <th>名稱</th>
+    <th>年齡</th>
+  </tr>
+    
+</table>
+ 
+ 
+    <form action="/submit" method="post">
+  <label for="name">姓名:</label>
+  <input type="text" id="name" name="name">
+  <input type="submit" value="提交">
+</form>
+ 
+</body>
+</html>
