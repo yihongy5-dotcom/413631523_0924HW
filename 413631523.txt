@@ -19,7 +19,7 @@
  
     <h2>我喜歡的團體</h2>
     <p>這是他們的粉專：</p>
-    <img src="https://www.instagram.com/babymonster_ygofficial/" alt="示範圖片">
+    <img src="https://yg-life.com/wp-content/uploads/2025/04/41bd3301ebb05a62b9769f0b6521f0d1.jpeg" alt="示範圖片">
  
     <h2>我的學習清單</h2>
     <p>我想學的東西：</p>
